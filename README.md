@@ -1,2 +1,1 @@
-# clarity
-Website
+Hello world
